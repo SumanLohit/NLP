@@ -7,4 +7,5 @@ NLP notebooks and reference material for both NLP and python
 5. [Remove mentions and hashtags](https://catriscode.com/2021/03/02/extracting-or-removing-mentions-and-hashtags-in-tweets-using-python/)
 6. [length of text after disregarding spaces](https://stackoverflow.com/questions/19669001/using-len-for-text-but-discarding-spaces-in-the-count)
 7. [Spacy documentation- processing pipelines](https://spacy.io/usage/processing-pipelines)
-8. 
+8. [XGBoost for unbalanced dataset](https://machinelearningmastery.com/xgboost-for-imbalanced-classification/)
+9. [Classification of spam emails](https://towardsdatascience.com/spam-detection-in-emails-de0398ea3b48)
