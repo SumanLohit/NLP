@@ -9,3 +9,5 @@ NLP notebooks and reference material for both NLP and python
 7. [Spacy documentation- processing pipelines](https://spacy.io/usage/processing-pipelines)
 8. [XGBoost for unbalanced dataset](https://machinelearningmastery.com/xgboost-for-imbalanced-classification/)
 9. [Classification of spam emails](https://towardsdatascience.com/spam-detection-in-emails-de0398ea3b48)
+10. [Understanding Pytorch](https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e)
+11. [Computation graphs in Pytorch](https://jdhao.github.io/2017/11/12/pytorch-computation-graph/)
