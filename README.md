@@ -11,3 +11,4 @@ NLP notebooks and reference material for both NLP and python
 9. [Classification of spam emails](https://towardsdatascience.com/spam-detection-in-emails-de0398ea3b48)
 10. [Understanding Pytorch](https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e)
 11. [Computation graphs in Pytorch](https://jdhao.github.io/2017/11/12/pytorch-computation-graph/)
+12. [Custom Loss functions](https://discuss.pytorch.org/t/custom-loss-functions/29387/51)
