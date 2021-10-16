@@ -12,3 +12,5 @@ NLP notebooks and reference material for both NLP and python
 10. [Understanding Pytorch](https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e)
 11. [Computation graphs in Pytorch](https://jdhao.github.io/2017/11/12/pytorch-computation-graph/)
 12. [Custom Loss functions](https://discuss.pytorch.org/t/custom-loss-functions/29387/51)
+13. [Cross entropy for ML](https://machinelearningmastery.com/cross-entropy-for-machine-learning/)
+14. [Backpropagation exmaple](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
