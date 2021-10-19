@@ -14,3 +14,4 @@ NLP notebooks and reference material for both NLP and python
 12. [Custom Loss functions](https://discuss.pytorch.org/t/custom-loss-functions/29387/51)
 13. [Cross entropy for ML](https://machinelearningmastery.com/cross-entropy-for-machine-learning/)
 14. [Backpropagation exmaple](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
+15. [Activation functions](https://datascience.stackexchange.com/questions/14349/difference-of-activation-functions-in-neural-networks-in-general)
